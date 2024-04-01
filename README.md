@@ -29,7 +29,16 @@ field : "Software Enginner"
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="50px"/>  
 </p>
 
->### Now?
+## Social Medias
+You can contact me by following the links below
+<p>
+  <a href="https://github.com/matinsekhavat" target="_blank"><img class="icon"  width="50px"  alt="Github"  src="https://img.icons8.com/3d-fluency/94/null/github.png" /></a>
+<a href="https://www.instagram.com/matinsekhavat?igsh=c3JuZnAzNnBnZWY0" target="_blank"><img class="icon"  alt="instagram" width=50px" src="https://img.icons8.com/3d-fluency/94/null/instagram-new.png" /></a>
+<a href="http://T.me/MatinSekhavat" target="_blank"><img class="icon"  alt="telegram" width="50px" src="https://img.icons8.com/?size=100&id=k4jADXhS5U1t&format=png" /></a>
+
+</p>
+
+### Now
   ``` diff
- + so now i'm just improves my Skills such as Vanilla.js and React.js also Learning Next.js.
+ + So now I'm just improving my skills, such as Vanilla.js and React.js and also Learning Next.js...
 ```
